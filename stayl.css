@@ -1,0 +1,20 @@
+#infoMessage {
+  display: none;
+  background-color: black;
+  color: red;
+  padding: 10px;
+  border-radius: 20px;
+ 
+} 
+h1{
+  
+    background-color: aquamarine;
+    color: green;
+    padding: 10px;
+    border-radius: 25%;
+    margin-bottom: 40px;
+
+}
+body{
+  background-color: springgreen;
+}

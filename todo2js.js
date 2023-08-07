@@ -12,7 +12,7 @@ send.addEventListener("click", function (e) {
   // console.log(arr)
 });
 show.addEventListener("click", function (e) {
-  for (let i = 0; i < arr.length; i++) {}
+//   for (let i = 0; i < arr.length; i++) {}
 
   const newContent = arr
     .map((a, index) => `<li>${index + 1}. ${a} </li>`)
